@@ -1,0 +1,26 @@
+{
+    "name": "foodles",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matheomiquel/Foodles.git"
+    },
+    "type": "module",
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/matheomiquel/Foodles/issues"
+    },
+    "homepage": "https://github.com/matheomiquel/Foodles#readme",
+    "dependencies": {
+        "assert": "^2.0.0",
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "mocha": "^8.2.1"
+    }
+}
